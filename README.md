@@ -2,6 +2,8 @@
 
 **Tulipanes Store** es una tienda de arreglos florales creada en Python. Se trata de una aplicación interactiva por consola donde el usuario puede ver el inventario de flores disponibles, añadir arreglos a su carrito, confirmar su compra y consultar un historial de compras realizadas.
 
+<img heigth="250" src="./images/program.png" >
+
 ## 🛠️ Características
 
 - Inventario inicial con tipos de arreglos florales y su stock.
